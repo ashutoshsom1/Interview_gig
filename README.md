@@ -23,4 +23,4 @@ This repository is organized to help you master core computer science concepts f
 - Time Complexities
 - Programming Paradigms (Dynamic, OOP, Asynchronous, Functional)
 
-Start with the README in each folder for a step-by-step guide.
+Start with the README in each folder for a step-by-step guide and understand what things need attentions.
